@@ -26,6 +26,7 @@ class LinkedList:
 
 link = LinkedList()
 link.insert(5)
+link.insert(1)
 link.insert(3)
 
 link.show()
